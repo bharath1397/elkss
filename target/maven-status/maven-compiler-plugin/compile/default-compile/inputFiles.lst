@@ -1,0 +1,11 @@
+/home/kali10/Workspace/SpringToolsSuite/spring-boot-tutorial-master/demo/src/main/java/net/guides/springboot/loginregistrationspringbootauthjsp/validator/UserValidator.java
+/home/kali10/Workspace/SpringToolsSuite/spring-boot-tutorial-master/demo/src/main/java/net/guides/springboot/loginregistrationspringbootauthjsp/service/UserDetailsServiceImpl.java
+/home/kali10/Workspace/SpringToolsSuite/spring-boot-tutorial-master/demo/src/main/java/net/guides/springboot/loginregistrationspringbootauthjsp/config/WebSecurityConfig.java
+/home/kali10/Workspace/SpringToolsSuite/spring-boot-tutorial-master/demo/src/main/java/net/guides/springboot/loginregistrationspringbootauthjsp/web/UserController.java
+/home/kali10/Workspace/SpringToolsSuite/spring-boot-tutorial-master/demo/src/main/java/net/guides/springboot/loginregistrationspringbootauthjsp/service/UserServiceImpl.java
+/home/kali10/Workspace/SpringToolsSuite/spring-boot-tutorial-master/demo/src/main/java/net/guides/springboot/loginregistrationspringbootauthjsp/repository/UserRepository.java
+/home/kali10/Workspace/SpringToolsSuite/spring-boot-tutorial-master/demo/src/main/java/net/guides/springboot/loginregistrationspringbootauthjsp/repository/RoleRepository.java
+/home/kali10/Workspace/SpringToolsSuite/spring-boot-tutorial-master/demo/src/main/java/net/guides/springboot/loginregistrationspringbootauthjsp/model/Role.java
+/home/kali10/Workspace/SpringToolsSuite/spring-boot-tutorial-master/demo/src/main/java/net/guides/springboot/loginregistrationspringbootauthjsp/model/User.java
+/home/kali10/Workspace/SpringToolsSuite/spring-boot-tutorial-master/demo/src/main/java/net/guides/springboot/loginregistrationspringbootauthjsp/Application.java
+/home/kali10/Workspace/SpringToolsSuite/spring-boot-tutorial-master/demo/src/main/java/net/guides/springboot/loginregistrationspringbootauthjsp/service/UserService.java
